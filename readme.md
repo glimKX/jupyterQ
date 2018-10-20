@@ -38,9 +38,10 @@ scripts
 
 ## Built With
 
-* [jupyter-notebook]() - Ide+framework for research based programming
-* [jupyterQ]() - q functionality in jupyter with embedded python
-* [kdb+]() - columnar database for historical data
+* [jupyter-notebook](https://github.com/jupyter/notebook) - Ide+framework for research based programming
+* [jupyterQ](https://github.com/KxSystems/jupyterq) - q functionality in jupyter with embedded python
+* [kdb+](https://ondemand.kx.com/) - columnar database for historical data
+* [embedPy](https://github.com/KxSystems/embedPy) - embed of python kernel to allow q to pass k objects into python libraries
 
 
 ## Authors
